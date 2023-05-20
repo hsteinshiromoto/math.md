@@ -231,7 +231,10 @@
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "settingsConvertedToConfigKeyValues": true,
-  "foldersToIgnore": [],
+  "foldersToIgnore": [
+    "_meta_",
+    "_meta_/templates"
+  ],
   "linterLocale": "system-default",
   "logLevel": 4,
   "lintCommands": [],
