@@ -1,8 +1,8 @@
 ---
-alias: open sets, open
+alias: [open sets, open]
 tags: 
 date created: 2023-05-22 17:00:16
-date modified: 2023-05-22 21:37:31
+date modified: 2023-05-22 21:42:31
 ---
 
 tags: #definition | #geometry/topology

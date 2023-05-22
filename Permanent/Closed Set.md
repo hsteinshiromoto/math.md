@@ -1,5 +1,5 @@
 ---
-alias: closed sets, closed
+alias: [closed sets, closed]
 tags: 
 date created: 2023-05-22 17:00:16
 date modified: 2023-05-22 21:39:21
