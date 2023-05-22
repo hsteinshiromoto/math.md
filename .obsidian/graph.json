@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:_meta_ -path:README -path:\"Map of Content\" -path:license -path:Reference",
+  "search": "-path:_meta_ -path:README -path:\"Map of Content\" -path:license -path:Reference -path:MOC Topology",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.4055609787654098,
-  "close": false
+  "scale": 1.7235644146893947,
+  "close": true
 }
