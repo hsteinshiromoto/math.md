@@ -386,6 +386,7 @@ Temporary Items
 # Workspace json file
 
 .obsidian/workspace*.json 
+.obsidian/plugins/make-md/backups
 
 ### PyCharm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
