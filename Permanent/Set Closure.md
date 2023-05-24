@@ -3,15 +3,17 @@ alias:
   - closure
 tags: null
 date created: 2023-05-22 17:00:16
-date modified: 2023-05-22 22:26:34
+date modified: 2023-05-24 22:28:19
 ---
 
-tags: #definition | #geometry/topology | #set
+tags: #theorem | #geometry/topology | #set
 
 # Set Closure
 
 ## Context
 
-## Statement
+## Statements
 
-**Definition** ([[Bourbaki, N. - General Topology Chapters 1-4|@Bou95, Definition 10]]). Let $(X,\tau)$ be a [[topological space]], and $S\subseteq X$. The _closure of_ $S$, denoted as $\mathrm{cl}(S)$, is the set of all elements $x\in X$ such that every [[neighborhood]] of $x$ meets $S$.
+**Theorem**. Let $(X,d)$ be a [[metric space]] and $S\subseteq X$. If $\mathrm{cl}(S)$ is the [[metric set closure]] , then it also is the [[topological set closure]].
+
+_Proof_. Follows from the [[Topological Space Induced by the Metric Space]].

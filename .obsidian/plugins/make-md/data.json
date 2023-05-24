@@ -16,7 +16,7 @@
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
   "activeView": "root",
-  "hideFrontmatter": true,
+  "hideFrontmatter": false,
   "activeSpace": "",
   "spacesCompactMode": false,
   "defaultDateFormat": "MMM dd yyyy",
@@ -67,7 +67,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1684760472517,
+  "spacesAutoBackupLast": 1684931543538,
   "spacesUseAlias": true,
   "precreateVaultSpace": true
 }

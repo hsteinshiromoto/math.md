@@ -1,6 +1,6 @@
 ---
 date created: 2023-05-20 22:00:15
-date modified: 2023-05-22 23:10:01
+date modified: 2023-05-24 22:30:19
 ---
 
 # Topology
@@ -8,17 +8,21 @@ date modified: 2023-05-22 23:10:01
 ## [[Metric Space|Metric Spaces]]
 
 - [[Metrical Continuous Function|Continuity]]
-- [[Open Ball]] and [[Neighborhood]]
+- [[Metric Open Set|Open Set]]
+- [[Closed Set]]
+- [[Metric Neighborhood|Neighborhood]]
+- [[Accumulation Point]]
+- [[Metric Set Closure|Closure]]
 - [[Convergence of a Sequence in terms of a Metric|Limit]]
-- [[Open Set|open sets]] and [[Closed Set|closed sets]]
+- [[Topological Space Induced by the Metric Space]]
 
 ## [[Topological Space|Topological Spaces]]
 
-- [[Neighborhood|Neighborhoods]]
+- [[Topological Neighborhood|Neighborhoods]]
 - Sets
-	- [[Open Set|Open]]
+	- [[Topological Open Set|Open]]
 	- [[Closed Set|Closed]]
-	- [[Set Closure|Closure]]
+	- [[Topological Set Closure|Closure]]
 	- [[Interior of a Set|Interior]]
 	- [[Boundary of a Set|Boundary]]
 - [[Topological Continuous Function|Continuous function]]

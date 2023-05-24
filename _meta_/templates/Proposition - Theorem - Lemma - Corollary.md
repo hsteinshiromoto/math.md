@@ -11,6 +11,6 @@ tags: #proposition | #theorem | #lemma | #corollary
 
 ## Context
 
-## Statement
+## Statements
 
 ## References

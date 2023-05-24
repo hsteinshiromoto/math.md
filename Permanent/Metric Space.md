@@ -12,6 +12,6 @@ tags: #definition | #geometry/topology | #geometry/space
 
 ## Context
 
-## Statement
+## Statements
 
 **Definition** ([[Citation Needed]]). Let $X$ be a set and let $d:X\times X\to\mathbb{R}$ be a [[metric]]. The tuple $(X, d)$ is said to be a _metric space_.

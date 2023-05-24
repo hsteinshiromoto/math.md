@@ -12,6 +12,6 @@ tags: #definition | #geometry/topology | #set
 
 ## Context
 
-## Statement
+## Statements
 
 **Definition**. ([[Bourbaki, N. - General Topology Chapters 1-4|@Bou95, Definition 11]]). Let $(X,\tau)$ be a [[topological space]], and $S\subset X$. A point $x\in X$ is said to a _boundary point_ of $S$ if $x$ belongs to the [[Set Closure|closure]] of $S$ and its complement, ie, $x\in\mathrm{cl}(S)\cap\mathrm{cl}(X\setminus S)$. The set of all boundary points is said to be the _boundary_ of $S$.

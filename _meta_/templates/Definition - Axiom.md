@@ -11,6 +11,6 @@ tags: #definition | #axiom
 
 ## Context
 
-## Statement
+## Statements
 
 ## References

@@ -7,7 +7,7 @@ tags: #proposition | #theorem | #lemma | #corollary | #definition | #remark | #e
 ## Context
 
 
-## Statement
+## Statements
 
 
 ## References

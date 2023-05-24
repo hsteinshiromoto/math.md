@@ -11,6 +11,6 @@ tags: #definition | #geometry/topology | #geometry/space
 
 ## Context
 
-## Statement
+## Statements
 
-**Definition** ([[Tu, L. W. - An introduction to manifolds|@Tu11, pp. 318]]). Let $X$ be a set and $\tau$ be a [[topology]] defined over $X$. The pair $(X, \tau)$ is said to be a *topological space*.
+**Definition** ([[Tu, L. W. - An introduction to Manifolds|@Tu11, pp. 318]]). Let $X$ be a set and $\tau$ be a [[topology]] defined over $X$. The pair $(X, \tau)$ is said to be a *topological space*.

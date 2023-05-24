@@ -9,7 +9,7 @@ pages:
 publisher: Springer
 title: [General topology: Chapters 1-4]
 date created: 2023-05-22 22:17:36
-date modified: 2023-05-22 22:31:07
+date modified: 2023-05-23 21:49:54
 ---
 
 # General Topology: Chapters 1-4
@@ -18,12 +18,12 @@ date modified: 2023-05-22 22:31:07
 
 ### Set Closure
 
-![[Set Closure#Statement]]
+![[Set Closure#Statements]]
 
 ### Set Boundary
 
-![[Boundary of a Set#Statement]]
+![[Boundary of a Set#Statements]]
 
 ## Functions
 
-![[Topological Continuous Function#Statement]]
+![[Topological Continuous Function#Statements]]

@@ -9,33 +9,39 @@ pages:
 publisher: Springer
 title: [An introduction to manifolds]
 date created: 2023-05-22 16:58:32
-date modified: 2023-05-22 22:53:30
+date modified: 2023-05-24 22:00:15
 ---
 
 # An Introduction to Manifolds
 
 ## Topology
 
-![[Topology#Statement]]
+![[Topology#Statements]]
 
 ## Topological Space
 
-![[Topological Space#Statement]]
+![[Topological Space#Statements]]
 
 ## Sets
 
 ### Open Set
 
-![[Open Set#Statement]]
+![[Topological Open Set#Statements]]
 
 ### Closed Set
 
-![[Closed Set#Statement]]
+![[Closed Set#Statements]]
 
 ### Neighborhood
 
-![[Neighborhood#Statement]]
+![[Topological Neighborhood#Statements]]
 
 ## Functions
 
-![[Topological Continuous Function#Statement]]
+![[Topological Continuous Function#Statements]]
+
+## Metric Spaces
+
+![[Open Ball#Statements]]
+
+![[Closed Set#Statements]]

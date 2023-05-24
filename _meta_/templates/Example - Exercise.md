@@ -11,6 +11,6 @@ tags: #example | #exercise
 
 ## Context
 
-## Statement
+## Statements
 
 ## References

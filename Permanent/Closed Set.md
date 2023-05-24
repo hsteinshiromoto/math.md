@@ -1,16 +1,18 @@
 ---
+tags: null
 alias: [closed sets, closed]
-tags: 
-date created: 2023-05-22 17:00:16
-date modified: 2023-05-22 22:14:50
+date created: 2023-05-23 22:14:39
+date modified: 2023-05-24 22:00:48
 ---
 
-tags: #definition | #geometry/topology | #set
+tags: #definition | #geometry/topology
 
-# Topology
+# Closed Set
 
 ## Context
 
-## Statement
+## Statements
 
-**Definition** ([[Tu, L. W. - An introduction to manifolds|@Tu11, pp. 319]]). Let $(X, \tau)$ be a [[topological space]] and $X_i\subset X$ be an [[open set]]. The complement $X_i^C$ is said to be a *closed set*.
+**Definition**. ([[A Short Introduction to Metric Spaces|@Eck23, Definition 1.4]], [[Tu, L. W. - An introduction to Manifolds|@Tu11 pp. 319]]) Let be a $(X,d)$ be a [[metric space]]. A subset of $S$ is said to be _closed_ in $X$ if its complement $X\setminus S$ is [[Metric Open Set|open]] in $X$.
+
+## References
