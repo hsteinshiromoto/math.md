@@ -1,18 +1,18 @@
 ---
 date created: 2023-05-20 22:00:15
-date modified: 2023-05-24 22:30:19
+date modified: 2023-05-26 15:53:58
 ---
 
 # Topology
 
 ## [[Metric Space|Metric Spaces]]
 
-- [[Metrical Continuous Function|Continuity]]
 - [[Metric Open Set|Open Set]]
 - [[Closed Set]]
 - [[Metric Neighborhood|Neighborhood]]
 - [[Accumulation Point]]
 - [[Metric Set Closure|Closure]]
+- [[Metrical Continuous Function|Continuity]]
 - [[Convergence of a Sequence in terms of a Metric|Limit]]
 - [[Topological Space Induced by the Metric Space]]
 
@@ -34,3 +34,10 @@ date modified: 2023-05-24 22:30:19
 
 - [[Compact Topological Space]]
 - [[Heine-Borel theorem]]
+
+## References
+
+- [[A Short Introduction to Metric Spaces]]
+- [[Bourbaki, N. - General Topology Chapters 1-4]]
+- [[Mendelson, B. - Introduction to Topology]]
+- [[Tu, L. W. - An introduction to Manifolds]]

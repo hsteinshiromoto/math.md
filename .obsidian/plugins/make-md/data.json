@@ -68,7 +68,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1685016884228,
+  "spacesAutoBackupLast": 1685082099029,
   "spacesUseAlias": true,
   "precreateVaultSpace": true
 }
