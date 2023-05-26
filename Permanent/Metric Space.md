@@ -1,9 +1,10 @@
 ---
 alias:
   - metric spaces
+  - metric space
 tags: null
 date created: 2023-05-22 17:00:16
-date modified: 2023-05-22 22:47:18
+date modified: 2023-05-26 16:42:21
 ---
 
 tags: #definition | #geometry/topology | #geometry/space
