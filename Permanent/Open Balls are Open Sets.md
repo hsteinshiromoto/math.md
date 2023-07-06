@@ -1,9 +1,6 @@
 ---
 date created: 2023-05-23 22:30:22
 date modified: 2023-05-26 16:26:15
-alias:
-  - open sets
-  - open
 ---
 tags: #theorem #geometry/topology #definition
 

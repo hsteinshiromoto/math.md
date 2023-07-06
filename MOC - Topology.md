@@ -1,6 +1,6 @@
 ---
 date created: 2023-05-20 22:00:15
-date modified: 2023-05-26 15:53:58
+date modified: 2023-05-26 16:55:32
 ---
 
 # Topology
@@ -13,7 +13,7 @@ date modified: 2023-05-26 15:53:58
 - [[Accumulation Point]]
 - [[Metric Set Closure|Closure]]
 - [[Metrical Continuous Function|Continuity]]
-- [[Convergence of a Sequence in terms of a Metric|Limit]]
+- [[Pointwise Continuity]]
 - [[Topological Space Induced by the Metric Space]]
 
 ## [[Topological Space|Topological Spaces]]
