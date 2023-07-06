@@ -43,7 +43,7 @@
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "math.md"
+    "Topology"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -68,7 +68,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1685083569350,
+  "spacesAutoBackupLast": 1688647774277,
   "spacesUseAlias": true,
   "precreateVaultSpace": true
 }
