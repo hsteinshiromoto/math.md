@@ -38,8 +38,8 @@
   "expandedSpaces": [
     "/",
     null,
-    null,
-    "Functional Analysis"
+    "Functional Analysis",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -63,7 +63,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
@@ -71,7 +71,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1688700594725,
+  "spacesAutoBackupLast": 1688711293289,
   "spacesUseAlias": true,
   "precreateVaultSpace": true
 }
