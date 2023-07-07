@@ -1,6 +1,6 @@
 ---
 date created: 2023-05-20 22:00:15
-date modified: 2023-05-26 16:55:32
+date modified: 2023-07-07 16:27:17
 ---
 
 # Topology
@@ -15,6 +15,7 @@ date modified: 2023-05-26 16:55:32
 - [[Metrical Continuous Function|Continuity]]
 - [[Pointwise Continuity]]
 - [[Topological Space Induced by the Metric Space]]
+- [[Isometric Spaces]]
 
 ## [[Topological Space|Topological Spaces]]
 
@@ -37,7 +38,7 @@ date modified: 2023-05-26 16:55:32
 
 ## References
 
+- [[Mendelson, B. - Introduction to Topology]]
 - [[A Short Introduction to Metric Spaces]]
 - [[Bourbaki, N. - General Topology Chapters 1-4]]
-- [[Mendelson, B. - Introduction to Topology]]
 - [[Tu, L. W. - An introduction to Manifolds]]
