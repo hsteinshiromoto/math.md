@@ -19,7 +19,7 @@
   "hideFrontmatter": false,
   "activeSpace": "",
   "spacesCompactMode": false,
-  "defaultDateFormat": "MMM dd yyyy",
+  "defaultDateFormat": "YYYY MM DD",
   "spacesEnabled": true,
   "spacesPerformance": false,
   "collapsedTags": [],
@@ -38,11 +38,14 @@
   "expandedSpaces": [
     "/",
     null,
-    null
+    null,
+    "Functional Analysis"
   ],
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "Variational Analysis",
+    "Functional Analysis",
     "Topology"
   ],
   "menuTriggerChar": "/",
@@ -68,7 +71,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1688647774277,
+  "spacesAutoBackupLast": 1688700594725,
   "spacesUseAlias": true,
   "precreateVaultSpace": true
 }
