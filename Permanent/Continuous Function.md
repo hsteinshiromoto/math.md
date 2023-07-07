@@ -1,8 +1,7 @@
 ---
 date created: 2023-05-22 22:58:51
-date modified: 2023-05-26 16:52:20
-alias:
-  - continuous
+date modified: 2023-07-07 13:16:28
+alias: [continuous, continuity]
 ---
 tags: #theorem | #geometry/topology | #analysis/functional
 
@@ -25,6 +24,6 @@ as the following theorem shows.
 
 ## Remarks
 
-Another definion for a continuous function can be done in terms of [[Sequence|sequences]] as follows
+Another definition for a continuous function can be done in terms of [[Sequence|sequences]] as follows
 
 ![[Pointwise Continuity#Statements]]
