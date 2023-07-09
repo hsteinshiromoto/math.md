@@ -2,12 +2,10 @@
 alias:
 tags: 
 date created: 2023-07-07 13:25:04
-date modified: 2023-07-07 13:25:48
+date modified: 2023-07-09 22:19:06
 ---
 
-Lp Norm
-
-tags: #definition | #analysis/variational
+tags: #definition | #analysis/functional
 
 # Lp Norm
 
