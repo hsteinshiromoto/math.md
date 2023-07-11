@@ -12,5 +12,6 @@
   "map-of-content",
   "make-md",
   "reference-map",
-  "obsidian-citation-plugin"
+  "obsidian-citation-plugin",
+  "auto-note-mover"
 ]
