@@ -1,8 +1,8 @@
 ---
-alias: Cauchy
+alias: Cauchy, Cauchy sequence
 tags: 
 date created: 2023-07-11 22:10:04
-date modified: 2023-07-11 22:26:57
+date modified: 2023-07-13 22:29:41
 ---
 
 Cauchy Sequence
