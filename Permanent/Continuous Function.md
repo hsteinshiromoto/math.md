@@ -1,6 +1,6 @@
 ---
 date created: 2023-05-22 22:58:51
-date modified: 2023-07-07 13:16:28
+date modified: 2023-07-17 11:28:42
 alias: [continuous, continuity]
 ---
 tags: #theorem | #geometry/topology | #analysis/functional
