@@ -1,6 +1,9 @@
 ---
+alias: 
+tags: 
 date created: 2023-07-13 22:55:05
-date modified: 2023-07-13 23:05:34
+date modified: 2023-07-26 23:17:14
+title: References on Analysis
 ---
 
 # References on Analysis
@@ -15,6 +18,6 @@ Canuto, C.; Tobacco, A. - Mathematical analysis I
 
 Clarke, F. H. - Functional Analysis, Calculus of Variations and Optimal Control
 
-Dudley, R. M. -- Real Analysis and Probability
+Dudley, R. M. -- Real Analysis and Probability: Great book!
 
 Farenick, D. -- Fundamentals of Functional Analysis

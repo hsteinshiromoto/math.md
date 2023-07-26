@@ -1,6 +1,9 @@
 ---
+alias: 
+tags: 
 date created: 2023-07-13 22:44:36
-date modified: 2023-07-13 23:14:56
+date modified: 2023-07-26 23:17:07
+title: References on Optimization
 ---
 
 # References on Optimization
@@ -21,7 +24,7 @@ Cassel, K. W. -- Variational Methods with Applications in Science and Engineerin
 
 Clarke, F. H. - Functional Analysis, Calculus of Variations and Optimal Control
 
-Dudley, R. M. -- Real Analysis and Probability
+Dudley, R. M. -- Real Analysis and Probability: Great book!
 
 Ewing, G. M. -- Calculus of Variations with Applications
 

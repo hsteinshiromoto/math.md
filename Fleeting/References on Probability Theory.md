@@ -7,6 +7,6 @@ date modified: 2023-07-13 22:52:28
 
 Ross, Sheldon M. - Introduction to Probability Models, 9th ed, Academic Press
 
-Dudley, R. M. -- Real Analysis and Probability
+Dudley, R. M. -- Real Analysis and Probability: Great book!
 
 Larsen, R. J.; Marx, M. L. -- An Introduction to Mathematical Stistics and its Applications
