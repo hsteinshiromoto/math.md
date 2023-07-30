@@ -1,9 +1,9 @@
 ---
-alias: 
+alias: finitely additive, finitely additive functions
 tags: 
 title: Finitely Additive Function
 date created: 2023-07-27 21:59:01
-date modified: 2023-07-27 22:17:00
+date modified: 2023-07-27 22:40:32
 ---
 
 tags: #definition
