@@ -13,5 +13,6 @@
   "make-md",
   "reference-map",
   "obsidian-citation-plugin",
-  "auto-note-mover"
+  "auto-note-mover",
+  "obsidian-annotator"
 ]
