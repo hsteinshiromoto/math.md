@@ -1,13 +1,16 @@
 ---
+alias: 
+tags: 
 date created: 2023-07-08 23:03:06
-date modified: 2023-07-13 23:14:07
+date modified: 2023-07-30 22:37:10
+title: References on PDEs and Functional Analysis
 ---
 
 # References on PDEs and Functional Analysis
 
-- Salsa, S. "Partial Differential Equations in Action", Springer 2008. Chapters 6, 7
-- Quarteroni, A. "Modellistica numerica per problemi differenziali", Springer 2008
+- [[Salsa S. - Partial Differential Equations in Action]]
+- [[Quarteroni, A.; Sacco, A. Saleri, F. -- Numerical Mathematics.pdf]]
 - Clarke, F. H. - Functional Analysis, Calculus of Variations and Optimal Control
 - Ewing, G. M. -- Calculus of Variations with Applications
-- Farenick, D. -- Fundamentals of Functional Analysis
-- Lebedev, L. P. -- The Calculus of Variations and Functional Analysis With Optimal Control and Applications in Mechanics
+- [[Farenick, D. -- Fundamentals of Functional Analysis.pdf]]
+- [[Lebedev, L. P. -- The Calculus of Variations and Functional Analysis With Optimal Control and Applications in Mechanics.pdf]]
