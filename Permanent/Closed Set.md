@@ -1,8 +1,9 @@
 ---
 tags: null
-alias: [closed sets, closed]
+alias: [closed sets, closed, closed set]
 date created: 2023-05-23 22:14:39
-date modified: 2023-05-26 15:56:10
+date modified: 2023-08-04 21:49:05
+title: Closed Set
 ---
 
 tags: #definition | #geometry/topology

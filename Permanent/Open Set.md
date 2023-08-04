@@ -1,7 +1,9 @@
 ---
-alias: [open, open sets]
+tags: 
+alias: [open, open sets, open set]
 date created: 2023-05-26 15:56:46
-date modified: 2023-05-26 16:09:21
+date modified: 2023-08-04 21:48:56
+title: Open Set
 ---
 
 Open Set
