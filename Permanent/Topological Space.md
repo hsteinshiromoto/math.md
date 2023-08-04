@@ -1,8 +1,9 @@
 ---
-alias: topological spaces
+alias: topological spaces, topological space
 tags: 
 date created: 2023-05-22 17:00:16
-date modified: 2023-05-22 22:12:24
+date modified: 2023-08-04 16:05:38
+title: Topological Space
 ---
 
 tags: #definition | #geometry/topology | #geometry/space
