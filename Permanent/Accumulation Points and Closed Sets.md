@@ -2,12 +2,13 @@
 alias: limit point, cluster point
 tags: 
 date created: 2023-05-24 22:02:05
-date modified: 2023-05-26 16:31:38
+date modified: 2023-08-06 14:01:21
+title: Accumulation Points and Closed Sets
 ---
 
 Accumulation Point
 
-tags: #theorem | #geometry/topology | #definition
+tags: #result/theorem | #geometry/topology | #definition
 
 # Accumulation Points and Closed Sets
 

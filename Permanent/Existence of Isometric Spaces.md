@@ -2,12 +2,13 @@
 alias:
 tags: 
 date created: 2023-07-07 16:21:49
-date modified: 2023-07-07 16:30:33
+date modified: 2023-08-06 14:00:53
+title: Existence of Isometric Spaces
 ---
 
 Existence of Isometric Spaces
 
-tags: #theorem | #geometry/topology
+tags: #result/theorem | #geometry/topology
 
 # Existence of Isometric Spaces
 

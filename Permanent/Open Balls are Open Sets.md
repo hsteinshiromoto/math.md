@@ -1,8 +1,11 @@
 ---
+alias: 
+tags: 
 date created: 2023-05-23 22:30:22
-date modified: 2023-05-26 16:26:15
+date modified: 2023-08-06 14:00:44
+title: Open Balls Are Open Sets
 ---
-tags: #theorem #geometry/topology #definition
+tags: #result/theorem #geometry/topology #definition
 
 # Open Balls Are Open Sets
 

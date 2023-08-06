@@ -2,10 +2,11 @@
 alias:
 tags: 
 date created: 2023-05-24 21:29:57
-date modified: 2023-05-26 16:27:09
+date modified: 2023-08-06 14:00:16
+title: Topological Space Induced by the Metric Space
 ---
 
-tags: #theorem
+tags: #result/theorem
 
 # Topological Space Induced by the Metric Space
 

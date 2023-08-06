@@ -3,10 +3,11 @@ alias:
   - closure
 tags: null
 date created: 2023-05-22 17:00:16
-date modified: 2023-05-24 22:28:19
+date modified: 2023-08-06 14:00:26
+title: Set Closure
 ---
 
-tags: #theorem | #geometry/topology | #set
+tags: #result/theorem | #geometry/topology | #set
 
 # Set Closure
 

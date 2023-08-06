@@ -2,13 +2,13 @@
 tags: 
 alias: [open, open sets, open set]
 date created: 2023-05-26 15:56:46
-date modified: 2023-08-04 21:48:56
+date modified: 2023-08-06 13:59:33
 title: Open Set
 ---
 
 Open Set
 
-tags: #proposition | #geometry/topology
+tags: #result | #geometry/topology
 
 # Open Set
 
@@ -22,7 +22,7 @@ The second, is based on the concept of [[topological space]].
 
 ![[Topological Open Set#Statements]]
 
-The following #proposition shows that the metric-based definition implies the second.
+The following proposition shows that the metric-based definition implies the second.
 
 ## Statements
 
@@ -33,5 +33,3 @@ _Proof_. From the [[topological space induced by the metric space]], [[Metric Op
 ## Remark
 
 A [[topological open set]] does not necessary implies a [[metric open set]].
-
-## References

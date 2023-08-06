@@ -2,12 +2,13 @@
 alias:
 tags: 
 date created: 2023-07-11 22:14:55
-date modified: 2023-07-11 22:35:28
+date modified: 2023-08-06 14:01:01
+title: Convergent and Cauchy Sequences
 ---
 
 Convergent and Cauchy Sequences
 
-tags: #theorem | #geometry/topology
+tags: #result/theorem | #geometry/topology
 
 # Convergent and Cauchy Sequences
 

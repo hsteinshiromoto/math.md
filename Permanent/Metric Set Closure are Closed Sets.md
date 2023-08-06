@@ -2,10 +2,11 @@
 alias: 
 tags: null
 date created: 2023-05-22 17:00:16
-date modified: 2023-07-06 22:50:55
+date modified: 2023-08-06 13:59:49
+title: Closure of a Set is Closed
 ---
 
-tags: #thorem | #geometry/topology | #set
+tags: #result/theorem | #geometry/topology | #set
 
 # Closure of a Set is Closed
 
