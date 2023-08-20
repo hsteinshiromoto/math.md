@@ -1,14 +1,14 @@
 ---
 alias: 
 tags: 
-title: Sequential Compacteness
+title: Sequential Compactness
 date created: 2023-08-20 22:02:39
-date modified: 2023-08-20 22:05:16
+date modified: 2023-08-20 22:53:49
 ---
 
 tags: #definition | #geometry/topology
 
-# Sequential Compacteness
+# Sequential Compactness
 
 ## Context
 
